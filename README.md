@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on youtube.
 - 🤔 I’m looking for help with some programing.
 - 💬 Ask me about c++,c .
-- 📫 How to reach me: instagram,website.
+- 📫 How to reach me: instagram@lifemax123](https://www.instagram.com/lifemax_r),website.
 - 😄 Pronouns:He/His
 - ⚡ Fun fact:I spend almost 12 hours listening songs and coding everyday.

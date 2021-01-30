@@ -10,3 +10,4 @@
 - 📫 How to reach me: [instagram- @lifemax123](https://www.instagram.com/lifemax_r).
 - 😄 Pronouns:He/His
 - ⚡ Fun fact:I spend almost 12 hours listening songs and coding everyday.
+image souce link:- https://github-readme-stats.vercel.app/api?username=lifemax123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515

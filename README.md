@@ -1,13 +1,14 @@
 <h2> Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
 <h2> I'm RISHU .</h2>
 
-&nbsp;&nbsp; <h3> 👨🏻‍💻 About Me </h3>
- :heart: LISTENING TO MUSIC  | :blue_heart: Programming
+&nbsp;&nbsp; <h3>👨‍ About Me </h3>
+ :heart: LISTENING TO MUSIC  | :blue_heart: Programming  | 🤹‍  Skeching
 
 - :earth_americas: I'm from - India
 - :video_game: I like to play Vollyball
 - 💻  loves Programming
-- :gem: and I love to customize everything lol
+- :gem: and I love who love me 
+- :One of my most productive days was throwing away 1000 lines of code.
 
 <h3>🛠 Tech Stack</h3>
 

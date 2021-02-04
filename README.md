@@ -3,13 +3,13 @@
  <img align="right" height="270px" width="350px" alt="GIF" src="https://content.techgig.com/thumb/msid-79110796,width-860,resizemode-4/5-Strongest-reasons-for-non-programmers-to-learn-coding.jpg?58220" />
 
 &nbsp;&nbsp; <h3>👨‍ About Me </h3>
- :heart: LISTENING TO MUSIC  | :blue_heart: Programming  | 🤹‍  Skeching
+ :heart: LISTENING MUSIC  | :blue_heart: Programming  | 🤹‍  Sketching
 
 - :earth_americas: I'm from - India
 - :video_game: I like to play Vollyball
 - 💻  loves Programming
 - :gem: and I love who love me 
-- :One of my most productive days was throwing away 1000 lines of code.
+- :Man Technologist on Apple iOS 14.2:One of my most productive days was throwing away 1000 lines of code.
 
 <h3>🛠 Tech Stack</h3>
 

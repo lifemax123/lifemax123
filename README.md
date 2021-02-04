@@ -43,8 +43,8 @@
 <p align="center">
 <!--<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>-->
 
-<a href="https://www.instagram.com/lifemax_r/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ig_ritikdhayal-blue?style=flat-square&logo=instagram"></a>
-<a href="lifemaxkr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ritikdhayal-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/lifemax_r/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lifemax_r-blue?style=flat-square&logo=instagram"></a>
+<a href="lifemaxkr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lifemaxkr-blue?style=flat-square&logo=gmail"></a>
 </p>
 <h3> 💻 Languages and Tools...</h3>
 

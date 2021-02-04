@@ -18,8 +18,8 @@
 
 - 💻 &nbsp; C | C++ | Java |  Python .
 - 🌐 &nbsp; HTML | CSS | JavaScript.
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🛢 &nbsp; Web Development | Android Development.
+- 🔧 &nbsp; Game | Sketching.
 
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -31,7 +31,7 @@
 <!--<a href="https://lifemax123.github.io/rishu/"><img alt="Website" src="https://img.shields.io/badge/Website-https://lifemax123.github.io/rishu/-blue?style=flat-square&logo=google-chrome"></a>-->
 
 <a href="https://www.instagram.com/lifemax_r/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lifemax_r-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:lifemaxkr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lifemaxkr@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:lifemaxkr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lifemaxkr-blue?style=flat-square&logo=gmail"></a>
 </p>
 <h3> 💻 Languages and Tools...</h3>
 
@@ -44,3 +44,5 @@
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"></a></code>
 
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=lifemax123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<h2> Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">

@@ -1,10 +1,4 @@
-### Hi there👋
-### my self Rishu kumar 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=lifemax123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<h2> Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">
- I'm RISHU .</h2>
+<h2> I'm RISHU .</h2>
 
 &nbsp;&nbsp; <h3> 👨🏻‍💻 About Me </h3>
  :heart: LISTENING TO MUSIC  | :blue_heart: Programming

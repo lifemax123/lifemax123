@@ -9,9 +9,9 @@
 - :video_game: I like to play Vollyball
 - 💻  loves Programming
 - :gem: and I love who love me 
-- :Man Technologist on Apple iOS 14.2:One of my most productive days was throwing away 1000 lines of code.
+- 💻 One of my most productive days was throwing away 1000 lines of code.
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Tech Field</h3>
 
 - 💻 &nbsp; C | C++ | Java |  Python .
 - 🌐 &nbsp; HTML | CSS | JavaScript.

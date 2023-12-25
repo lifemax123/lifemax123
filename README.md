@@ -6,8 +6,8 @@
  :heart: LISTENING MUSIC  | :blue_heart: Programming  | 🤹‍  Sketching
 
 - :earth_americas: I'm from - India
+- :💻  loves Programming
 - :video_game: I like to play Vollyball
-- 💻  loves Programming
 - :gem: and I love who love me 
 - 💻 One of my most productive days was throwing away 1000 lines of code.
 

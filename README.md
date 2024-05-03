@@ -7,15 +7,15 @@
 
 - :earth_americas: I'm from - India
 - :💻  loves Programming
-- :video_game: I like to play Vollyball
+- :video_game: I like to play Volleyball
 - :gem: and I love who love me 
 - 💻 One of my most productive days was throwing away 1000 lines of code.
 
 <h3>🛠 Tech Field</h3>
 
-- 💻 &nbsp; C | C++ | Java |  Python .
+- 💻 &nbsp; C | C++ |  Python | SQL .
 - 🌐 &nbsp; HTML | CSS | JavaScript.
-- 🛢 &nbsp; Web Development | Android Development.
+- 🛢 &nbsp; Web Development | Android Development | Data Science and machine learning.
 - 🔧 &nbsp; Game | Sketching.
 
 

@@ -28,7 +28,9 @@
 <p align="center">
 <!--<a href="https://lifemax123.github.io/rishu/"><img alt="Website" src="https://img.shields.io/badge/Website-https://lifemax123.github.io/rishu/-blue?style=flat-square&logo=google-chrome"></a>-->
 
+
 <a href="https://www.instagram.com/lifemax_r/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lifemax_r-blue?style=flat-square&logo=instagram"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishu-kumar-114a30202/) 
 <a href="mailto:rishukr2809@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-RishuKr-blue?style=flat-square&logo=gmail"></a>
 </p>
 <h3> 💻 Languages and Tools...</h3>

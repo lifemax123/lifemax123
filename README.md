@@ -8,7 +8,8 @@
 - :earth_americas: I'm from - India
 - :💻  loves Programming
 - :video_game: I like to play Volleyball
-- :gem: and I love who love me 
+- :gem: and I love who love me
+- 💬 Ask me about Deep Learning and Data Science<br>
 - 💻 One of my most productive days was throwing away 1000 lines of code.
 
 <h3>🛠 Tech Field</h3>
@@ -28,7 +29,7 @@
 <!--<a href="https://lifemax123.github.io/rishu/"><img alt="Website" src="https://img.shields.io/badge/Website-https://lifemax123.github.io/rishu/-blue?style=flat-square&logo=google-chrome"></a>-->
 
 <a href="https://www.instagram.com/lifemax_r/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-lifemax_r-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:rishukr2809@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lifemaxkr-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:rishukr2809@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-RishuKr-blue?style=flat-square&logo=gmail"></a>
 </p>
 <h3> 💻 Languages and Tools...</h3>
 
